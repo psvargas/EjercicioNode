@@ -1,0 +1,25 @@
+{
+  "name": "EjercicioNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psvargas/EjercicioNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psvargas/EjercicioNode/issues"
+  },
+  "homepage": "https://github.com/psvargas/EjercicioNode#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "wget": "0.0.1",
+    "wget-improved": "^3.2.1"
+  }
+}
